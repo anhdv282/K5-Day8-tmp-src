@@ -2,16 +2,16 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: OPC
 - Lớp: L3A
-- Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
+- Repo nhóm: `K5-L3A-DAY08-OPC-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt:
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
+|   1 |   Đặng Việt Anh     |   2A202603685   |    26ai.anhdv3@vinuni.edu.vn   |    anhdv282    |     nhóm 1 người nên đủ vai trò + AI assisstant    |
 |   2 |        |      |       |        |         |
 
 Gợi ý chia vai:
@@ -25,28 +25,20 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Đặng Việt Anh | toàn bộ kỹ thuật | | đã thêm test test_2A202603685_trace_redaction.py   |
 
 ## Cá nhân
 
-Mỗi thành viên đồng thời tạo một báo cáo riêng trong `report/` theo dạng:
-
-```text
-report/team/MSSV_HoTen.md
-```
-
-Ví dụ: `report/team/20241234_NguyenVanAn.md`.
-
-Sao chép mục dưới đây cho từng thành viên.
+report/team/2A202603685_DangVietAnh.md
 
 ## MSSV_HoTen
 
 ### Phần việc phụ trách
-
+Toàn bộ kỹ thuật với hỗ trợ của AI
 -
 
 ### Đóng góp cụ thể
-
+Thêm file test test_2A202603685_trace_redaction.py 
 -
 
 ### Bằng chứng
